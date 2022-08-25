@@ -1,8 +1,8 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="pt-br">
 	<head>
     	<meta charset="UTF-8">
-    	<title>Barbearia Alura</title>
+    	<title>VINI MUSIC</title>
     	<link rel="stylesheet" href="style.css">
 	</head>
 
@@ -12,13 +12,13 @@
 		</header>
 		<img id="banner" src="banner.jpg">
 			<div class="principal">
-			<h2 class="título-centralizado">Sobre aVINI MUSIC </h2>
+			<h2 class="título-centralizado">Sobre a VINI MUSIC</h2>
 
-			<p>Localizada no centro da cidade a <strong>VINI MUSIC</strong> a nossa loja traz para nossos alunos asmelhores aulas e qualidades do mundo da musica ...........</p>
+			<p>Localizada no coração da cidade a <strong>VINI MUSIC</strong> traz para o mercado o que há de melhor para os nosso alunos </p>
 
-			<p id="missao"><em>Nossa missão é: <strong>"Proporcionar aos alunos que queirão aprender a cantar etc ,sairem profissionalizados "</strong>.</em></p>
+			<p id="missao"><em>Nossa missão é: <strong>"Proporcionar auto-estima e otimo aprendizado "</strong>.</em></p>
 
-			<p>Oferecemos tudo de bom e do melhor .</p>
+			<p>Oferecemos otimos materiis de apoio entre outros beneficios.</p>
 		</div>
 
         <div class="beneficios">
@@ -29,7 +29,7 @@
 				<li class="itens">Atendimento aos Clientes</li>
 				<li class="itens">Espaço diferenciado</li>
 				<li class="itens">Localização</li>
-				<li class="itens">amplo espaço </li>
+				<li class="itens">espaço kids </li>
 			</ul>
 			<img src="beneficios.jpg" class="imagembeneficios">
         </div>
